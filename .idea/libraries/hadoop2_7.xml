@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="hadoop2.7">
+    <CLASSES>
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/httpfs" />
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/mapreduce" />
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/yarn" />
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/common" />
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/hdfs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/common/jdiff" />
+      <root url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/hdfs/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://E:/hadoop/hadoop-2.7.3/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>
