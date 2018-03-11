@@ -42,6 +42,8 @@ public class Dedup {
 
     public static void main(String[] args) throws Exception {
 
+        //D:/git_work/hadoopTest/input D:/git_work/hadoopTest/output
+
         Configuration conf = new Configuration();
         String[] otherArgs = new GenericOptionsParser(conf, args).getRemainingArgs();
 
